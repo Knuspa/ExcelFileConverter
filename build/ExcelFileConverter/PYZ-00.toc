@@ -3104,6 +3104,10 @@
   ('tempfile',
    'C:\\Users\\gottk\\AppData\\Local\\Programs\\Python\\Python39\\lib\\tempfile.py',
    'PYMODULE'),
+  ('tests',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\tests\\__init__.py',
+   'PYMODULE'),
   ('textwrap',
    'C:\\Users\\gottk\\AppData\\Local\\Programs\\Python\\Python39\\lib\\textwrap.py',
    'PYMODULE'),
@@ -3160,6 +3164,178 @@
    'PYMODULE'),
   ('webbrowser',
    'C:\\Users\\gottk\\AppData\\Local\\Programs\\Python\\Python39\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('xlrd',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlrd\\__init__.py',
+   'PYMODULE'),
+  ('xlrd.biffh',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlrd\\biffh.py',
+   'PYMODULE'),
+  ('xlrd.book',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlrd\\book.py',
+   'PYMODULE'),
+  ('xlrd.compdoc',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlrd\\compdoc.py',
+   'PYMODULE'),
+  ('xlrd.formatting',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlrd\\formatting.py',
+   'PYMODULE'),
+  ('xlrd.formula',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlrd\\formula.py',
+   'PYMODULE'),
+  ('xlrd.info',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlrd\\info.py',
+   'PYMODULE'),
+  ('xlrd.sheet',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlrd\\sheet.py',
+   'PYMODULE'),
+  ('xlrd.timemachine',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlrd\\timemachine.py',
+   'PYMODULE'),
+  ('xlrd.xldate',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlrd\\xldate.py',
+   'PYMODULE'),
+  ('xlsxwriter',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\__init__.py',
+   'PYMODULE'),
+  ('xlsxwriter.app',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\app.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\chart.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_area',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\chart_area.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_bar',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\chart_bar.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_column',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\chart_column.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_doughnut',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\chart_doughnut.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_line',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\chart_line.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_pie',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\chart_pie.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_radar',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\chart_radar.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_scatter',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\chart_scatter.py',
+   'PYMODULE'),
+  ('xlsxwriter.chart_stock',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\chart_stock.py',
+   'PYMODULE'),
+  ('xlsxwriter.chartsheet',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\chartsheet.py',
+   'PYMODULE'),
+  ('xlsxwriter.comments',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\comments.py',
+   'PYMODULE'),
+  ('xlsxwriter.contenttypes',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\contenttypes.py',
+   'PYMODULE'),
+  ('xlsxwriter.core',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\core.py',
+   'PYMODULE'),
+  ('xlsxwriter.custom',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\custom.py',
+   'PYMODULE'),
+  ('xlsxwriter.drawing',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\drawing.py',
+   'PYMODULE'),
+  ('xlsxwriter.exceptions',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\exceptions.py',
+   'PYMODULE'),
+  ('xlsxwriter.format',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\format.py',
+   'PYMODULE'),
+  ('xlsxwriter.metadata',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\metadata.py',
+   'PYMODULE'),
+  ('xlsxwriter.packager',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\packager.py',
+   'PYMODULE'),
+  ('xlsxwriter.relationships',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\relationships.py',
+   'PYMODULE'),
+  ('xlsxwriter.shape',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\shape.py',
+   'PYMODULE'),
+  ('xlsxwriter.sharedstrings',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\sharedstrings.py',
+   'PYMODULE'),
+  ('xlsxwriter.styles',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\styles.py',
+   'PYMODULE'),
+  ('xlsxwriter.table',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\table.py',
+   'PYMODULE'),
+  ('xlsxwriter.theme',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\theme.py',
+   'PYMODULE'),
+  ('xlsxwriter.utility',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\utility.py',
+   'PYMODULE'),
+  ('xlsxwriter.vml',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\vml.py',
+   'PYMODULE'),
+  ('xlsxwriter.workbook',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\workbook.py',
+   'PYMODULE'),
+  ('xlsxwriter.worksheet',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\worksheet.py',
+   'PYMODULE'),
+  ('xlsxwriter.xmlwriter',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\xlsxwriter\\xmlwriter.py',
    'PYMODULE'),
   ('xml',
    'C:\\Users\\gottk\\AppData\\Local\\Programs\\Python\\Python39\\lib\\xml\\__init__.py',
