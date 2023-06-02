@@ -1,3 +1,3 @@
-# ExcelFileConverter
-Convert between xlsx and csv 
+# ExcelFileConverter -> Convert between xlsx and csv
+
 Executable in dist Directory
