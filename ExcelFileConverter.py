@@ -64,12 +64,12 @@ class MainWindow(QMainWindow):
 
             if file_ext.lower() == '.csv':
                 output_file += '.xlsx'
-                df = pd.read_csv(file_path, delimiter=';', quotechar='"', decimal=',')
+                df = pd.read_csv(file_path, delimiter=';', quotechar='"', decimal=',', encoding='utf-8-sig')
                 df.to_excel(output_file, index=False)
             elif file_ext.lower() == '.xlsx':
                 output_file += '.csv'
                 df = pd.read_excel(file_path)
-                df.to_csv(output_file, index=False, sep=';', quotechar='"', decimal=',', float_format='%.15g')
+                df.to_csv(output_file, index=False, sep=';', quotechar='"', decimal=',', float_format='%.15g', encoding='utf-8-sig')
 
         self.label.setText("Eingabedateien: Nicht ausgewählt")
         self.label2.setText("Ausgabeordner: Nicht ausgewählt")
