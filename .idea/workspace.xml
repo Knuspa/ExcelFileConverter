@@ -4,8 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62d0070c-99f7-4b4d-aa7e-0f26d11ec320" name="Changes" comment="fixed vowels">
+    <list default="true" id="62d0070c-99f7-4b4d-aa7e-0f26d11ec320" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/.idea/Excel converter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Excel converter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/ExcelFileConverter.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/ExcelFileConverter.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/ExcelFileConverter.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/warn-ExcelFileConverter.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/xref-ExcelFileConverter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pyinstaller-5.11.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyinstaller-5.11.0.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyi-archive_viewer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyi-archive_viewer.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyi-bindepend.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyi-bindepend.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyi-grab_version.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyi-grab_version.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyi-makespec.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyi-makespec.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyi-set_version.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyi-set_version.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyinstaller.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyinstaller.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,30 +68,31 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/gottk/Desktop/Excel converter&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gottk/Desktop/Excel converter/ExcelFileConverter.py&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RunManager">
-    <configuration name="csv to xlsx" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="ExcelFileConverter" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Excel converter" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\gottk\Desktop\Excel converter\venv\Scripts\python.exe" />
+      <option name="SDK_NAME" value="Python 3.9 (Excel converter)" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\gottk\Desktop\Excel converter\csv to xlsx.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ExcelFileConverter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,6 +115,11 @@
       <workItem from="1685692332838" duration="163000" />
       <workItem from="1685692608168" duration="7745000" />
       <workItem from="1685705208626" duration="934000" />
+      <workItem from="1685706617611" duration="520000" />
+      <workItem from="1685721957361" duration="568000" />
+      <workItem from="1685739566956" duration="1416000" />
+      <workItem from="1686043856341" duration="978000" />
+      <workItem from="1686045387780" duration="484000" />
     </task>
     <task id="LOCAL-00001" summary="1.0 Test">
       <created>1685656441829</created>
@@ -123,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685696668979</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update">
+      <created>1685706814837</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685706814837</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update">
+      <created>1685706874756</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685706874756</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,14 +176,16 @@
     <MESSAGE value="1.0 Test" />
     <MESSAGE value="fixed Umlautedarstellung" />
     <MESSAGE value="fixed vowels" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed vowels" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Excel_converter$Excel_file_converter.coverage" NAME="Excel file converter Coverage Results" MODIFIED="1685655359492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Excel_converter$ExcelFileConverter.coverage" NAME="ExcelFileConverter Coverage Results" MODIFIED="1685705518405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Excel_converter$test.coverage" NAME="test Coverage Results" MODIFIED="1685651491130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Excel_converter$ExcelFileConverter.coverage" NAME="ExcelFileConverter Coverage Results" MODIFIED="1686044704225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Excel_converter$test.coverage" NAME="test Coverage Results" MODIFIED="1686043985300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Excel_converter$xlsx_to_csv.coverage" NAME="xlsx to csv Coverage Results" MODIFIED="1685652221958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Excel_converter$main.coverage" NAME="main Coverage Results" MODIFIED="1685651964201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Excel_converter$csv_to_xlsx.coverage" NAME="csv to xlsx Coverage Results" MODIFIED="1685705337207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Excel_converter$temp_FileConverter.coverage" NAME="temp FileConverter Coverage Results" MODIFIED="1685740911990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

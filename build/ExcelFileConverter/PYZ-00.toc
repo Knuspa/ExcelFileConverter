@@ -3034,6 +3034,34 @@
    'C:\\Users\\gottk\\Desktop\\Excel '
    'converter\\venv\\lib\\site-packages\\pytz\\tzinfo.py',
    'PYMODULE'),
+  ('pyxlsb',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\pyxlsb\\__init__.py',
+   'PYMODULE'),
+  ('pyxlsb.biff12',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\pyxlsb\\biff12.py',
+   'PYMODULE'),
+  ('pyxlsb.handlers',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\pyxlsb\\handlers.py',
+   'PYMODULE'),
+  ('pyxlsb.reader',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\pyxlsb\\reader.py',
+   'PYMODULE'),
+  ('pyxlsb.stringtable',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\pyxlsb\\stringtable.py',
+   'PYMODULE'),
+  ('pyxlsb.workbook',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\pyxlsb\\workbook.py',
+   'PYMODULE'),
+  ('pyxlsb.worksheet',
+   'C:\\Users\\gottk\\Desktop\\Excel '
+   'converter\\venv\\lib\\site-packages\\pyxlsb\\worksheet.py',
+   'PYMODULE'),
   ('queue',
    'C:\\Users\\gottk\\AppData\\Local\\Programs\\Python\\Python39\\lib\\queue.py',
    'PYMODULE'),
