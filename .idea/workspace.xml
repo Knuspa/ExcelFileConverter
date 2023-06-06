@@ -4,28 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="62d0070c-99f7-4b4d-aa7e-0f26d11ec320" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.idea/Excel converter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Excel converter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+    <list default="true" id="62d0070c-99f7-4b4d-aa7e-0f26d11ec320" name="Changes" comment="update exe">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/Analysis-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/ExcelFileConverter.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/ExcelFileConverter.exe.manifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/ExcelFileConverter.pkg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/PKG-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/PYZ-00.pyz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/PYZ-00.toc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/build/ExcelFileConverter/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/warn-ExcelFileConverter.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/ExcelFileConverter/xref-ExcelFileConverter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pyinstaller-5.11.0.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyinstaller-5.11.0.dist-info/RECORD" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyi-archive_viewer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyi-archive_viewer.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyi-bindepend.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyi-bindepend.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyi-grab_version.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyi-grab_version.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyi-makespec.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyi-makespec.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyi-set_version.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyi-set_version.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Scripts/pyinstaller.exe" beforeDir="false" afterPath="$PROJECT_DIR$/venv/Scripts/pyinstaller.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +104,7 @@
       <workItem from="1685721957361" duration="568000" />
       <workItem from="1685739566956" duration="1416000" />
       <workItem from="1686043856341" duration="978000" />
-      <workItem from="1686045387780" duration="484000" />
+      <workItem from="1686045387780" duration="1592000" />
     </task>
     <task id="LOCAL-00001" summary="1.0 Test">
       <created>1685656441829</created>
@@ -163,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685706874756</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="update exe">
+      <created>1686045918030</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1686045918030</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update exe">
+      <created>1686046004821</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686046004821</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,7 +176,8 @@
     <MESSAGE value="fixed Umlautedarstellung" />
     <MESSAGE value="fixed vowels" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update exe" />
+    <option name="LAST_COMMIT_MESSAGE" value="update exe" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Excel_converter$Excel_file_converter.coverage" NAME="Excel file converter Coverage Results" MODIFIED="1685655359492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
